@@ -19,6 +19,7 @@ I'm an aspiring System Administrator and Developer passionate about technology a
 - **Linux & VBox** - Running virtual environments.
 - **TCPViewer & Process Explorer** - Network and process management.
 - **Event Viewer** - System event monitoring.
+- **MemTest86** - memory testing software.
 
 ## 🎨 Hobbies
 - **Photography**
