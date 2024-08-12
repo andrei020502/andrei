@@ -4,11 +4,11 @@ I'm an aspiring System Administrator and Developer passionate about technology a
 
 ## 🛠 Skills and Technologies
 #### Development & Database
-- **VB.NET:** ![VB.NET Progress](https://progress-bar.dev/85)
-- **C#:** ![C# Progress](https://progress-bar.dev/75)
-- **HTML & CSS:** ![HTML & CSS Progress](https://progress-bar.dev/70)
-- **PHP:** ![PHP Progress](https://progress-bar.dev/70)
-- **MySQL:** ![MySQL Progress](https://progress-bar.dev/75)
+- **VB.NET:** 🔳🔳🔳🔳🔳🔳🔳🔳⬜️⬜️
+- **C#:** 🔳🔳🔳🔳🔳🔳🔳⬜️⬜️⬜️
+- **HTML & CSS:** 🔳🔳🔳🔳🔳🔳🔳⬜️⬜️
+- **PHP:** 🔳🔳🔳🔳🔳🔳🔳⬜️⬜️⬜️
+- **MySQL:** 🔳🔳🔳🔳🔳🔳🔳⬜️⬜️⬜️
 
 #### System Administration Tools
 - **CrystalDiskInfo** - Monitoring hard drive health.
