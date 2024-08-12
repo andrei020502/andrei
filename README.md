@@ -21,6 +21,41 @@ I'm an aspiring System Administrator and Developer passionate about technology a
 - **TCPViewer & Process Explorer** - Network and process management.
 - **Event Viewer** - System event monitoring.
 - **MemTest86** - memory testing software.
+<p align="left">
+  <a href="https://crystalmark.info/en/software/crystaldiskinfo/" target="_blank" rel="noreferrer">
+    <img src="https://img.utdstc.com/icon/217/fdb/217fdbc48ae682e8519f8e95ba735c4aad4ce2345a7267669b9f792004f0a168:100" alt="CrystalDiskInfo" width="40" height="40"/>
+  </a>
+  <a href="https://www.hdsentinel.com/" target="_blank" rel="noreferrer">
+    <img src="https://community.chocolatey.org/content/packageimages/hdsentinel.6.20.0.png" alt="HDD Sentinel" width="40" height="40"/>
+  </a>
+  <a href="https://www.malwarebytes.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKmMLHMCcgECtgqz9xG1Ttddeu2cz5pgJv4Q&s" alt="Malwarebytes" width="40" height="40"/>
+  </a>
+  <a href="https://www.vpn.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/6554/6554321.png" alt="VPN" width="40" height="40"/>
+  </a>
+  <a href="https://www.ubackup.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmdWCPsIPz9DwS8WaDRuQ_hg9sRsu8DG4IhA&s" alt="AOMEI" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+    <img src="https://e7.pngegg.com/pngimages/997/157/png-clipart-virtualbox-computer-icons-virtual-machine-operating-systems-virtualization-boxing-logo-sports-thumbnail.png" alt="VirtualBox" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sysinternals/downloads/process-explorer" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7-mONvQsLKRdh7VFz7bkdIxi6vdAZiWtjjg&s" alt="Process Explorer" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sysinternals/downloads/tcpview" target="_blank" rel="noreferrer">
+    <img src="https://cdn2.portableapps.com/TCPViewPortable_128.png" alt="TCPView" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/windows/win32/msi/event-viewer" target="_blank" rel="noreferrer">
+    <img src="https://winaero.com/blog/wp-content/uploads/2014/02/EventVwr.png" alt="Event Viewer" width="40" height="40"/>
+  </a>
+  <a href="https://www.memtest86.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnO7FUwp0zmBtl7xTlfmmES58wVHoIL_SbzQ&s" alt="MemTest86" width="40" height="40"/>
+  </a>
+</p>
 
 ## 🎨 Hobbies
 - **Photography**
