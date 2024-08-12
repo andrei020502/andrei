@@ -32,5 +32,3 @@ I'm an aspiring System Administrator and Developer passionate about technology a
 - **[Instagram](https://www.instagram.com/mark_andrei_05/)** - Check out my photos and daily life.
 - **[LinkedIn](https://www.linkedin.com/in/mark-andrei-reyes-8a146427b/)** - Connect with me professionally.
 
-> Note: The progress bars above are powered by [progress-bar.dev](https://progress-bar.dev) and visually represent my proficiency in each technology.
-
