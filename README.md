@@ -26,7 +26,7 @@ I'm an aspiring System Administrator and Developer passionate about technology a
     <img src="https://img.utdstc.com/icon/217/fdb/217fdbc48ae682e8519f8e95ba735c4aad4ce2345a7267669b9f792004f0a168:100" alt="CrystalDiskInfo" width="40" height="40"/>
   </a>
   <a href="https://www.hdsentinel.com/" target="_blank" rel="noreferrer">
-    <img src="https://community.chocolatey.org/content/packageimages/hdsentinel.6.20.0.png" alt="HDD Sentinel" width="40" height="40"/>
+    <img src="https://download.zone/wp-content/uploads/2020/05/Hard-Disk-Sentinel-Download.png" alt="HDD Sentinel" width="40" height="40"/>
   </a>
   <a href="https://www.malwarebytes.com/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKmMLHMCcgECtgqz9xG1Ttddeu2cz5pgJv4Q&s" alt="Malwarebytes" width="40" height="40"/>
