@@ -21,6 +21,7 @@ I'm an aspiring System Administrator and Developer passionate about technology a
 - **TCPViewer & Process Explorer** - Network and process management.
 - **Event Viewer** - System event monitoring.
 - **MemTest86** - memory testing software.
+  
 <p align="left">
   <a href="https://crystalmark.info/en/software/crystaldiskinfo/" target="_blank" rel="noreferrer">
     <img src="https://img.utdstc.com/icon/217/fdb/217fdbc48ae682e8519f8e95ba735c4aad4ce2345a7267669b9f792004f0a168:100" alt="CrystalDiskInfo" width="40" height="40"/>
@@ -56,6 +57,23 @@ I'm an aspiring System Administrator and Developer passionate about technology a
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnO7FUwp0zmBtl7xTlfmmES58wVHoIL_SbzQ&s" alt="MemTest86" width="40" height="40"/>
   </a>
 </p>
+
+## 🏆 Uncertified Badge Skills
+
+- **CompTIA A+**
+  - [CompTIA A+ Certification](https://www.comptia.org/certifications/a)
+
+- **CompTIA Network+**
+  - [CompTIA Network+ Certification](https://www.comptia.org/certifications/network)
+
+- **CompTIA Security+**
+  - [CompTIA Security+ Certification](https://www.comptia.org/certifications/security)
+
+- **Microsoft Azure Fundamentals**
+  - [Microsoft Azure Fundamentals Certification](https://learn.microsoft.com/en-us/certifications/azure/)
+
+- **Microsoft 365 Fundamentals**
+  - [Microsoft 365 Fundamentals Certification](https://learn.microsoft.com/en-us/certifications/microsoft-365-fundamentals/)
 
 ## 🎨 Hobbies
 - **Photography**
