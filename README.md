@@ -21,7 +21,8 @@ I'm an aspiring System Administrator and Developer passionate about technology a
 - **TCPViewer & Process Explorer** - Network and process management.
 - **Event Viewer** - System event monitoring.
 - **MemTest86** - memory testing software.
-  
+- **PFSense** - open source firewall software.
+
 <p align="left">
   <a href="https://crystalmark.info/en/software/crystaldiskinfo/" target="_blank" rel="noreferrer">
     <img src="https://img.utdstc.com/icon/217/fdb/217fdbc48ae682e8519f8e95ba735c4aad4ce2345a7267669b9f792004f0a168:100" alt="CrystalDiskInfo" width="40" height="40"/>
