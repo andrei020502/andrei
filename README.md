@@ -59,23 +59,6 @@ I'm an aspiring System Administrator and Developer passionate about technology a
   </a>
 </p>
 
-## 🏆 Uncertified Badge Skills
-
-- **CompTIA A+**
-  - [CompTIA A+ Certification](https://www.comptia.org/certifications/a)
-
-- **CompTIA Network+**
-  - [CompTIA Network+ Certification](https://www.comptia.org/certifications/network)
-
-- **CompTIA Security+**
-  - [CompTIA Security+ Certification](https://www.comptia.org/certifications/security)
-
-- **Microsoft Azure Fundamentals**
-  - [Microsoft Azure Fundamentals Certification](https://learn.microsoft.com/en-us/certifications/azure/)
-
-- **Microsoft 365 Fundamentals**
-  - [Microsoft 365 Fundamentals Certification](https://learn.microsoft.com/en-us/certifications/microsoft-365-fundamentals/)
-
 ## 🎨 Hobbies
 - **Photography**
 - **Playing Piano**
